@@ -1,0 +1,5 @@
+﻿  UnitTest(Lab_13.2(1 частина)).cpp
+E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_13.2(1 частина)\Lab_13.2(1 частина)\Lab_13.2(1 частина).cpp(52,4): warning C4834: discarding return value of function with 'nodiscard' attribute
+E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_13.2(1 частина)\UnitTest(Lab_13.2(1 частина))\UnitTest(Lab_13.2(1 частина)).cpp(17,1): warning C4005: 'z': macro redefinition
+E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_13.2(1 частина)\Lab_13.2(1 частина)\Lab_13.2(1 частина).cpp(10): message : see previous definition of 'z'
+  UnitTest(Lab_13.2(1 частина)).vcxproj -> E:\Моя папка. Навчання\Student [IK-11] [Дорожовець]\Lab_13.2(1 частина)\Debug\UnitTest(Lab_13.2(1 частина)).dll
